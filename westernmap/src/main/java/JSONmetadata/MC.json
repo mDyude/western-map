@@ -1,0 +1,444 @@
+    {
+        "Ground Floor":[{
+            "classroom":[   
+                {"name": "6 Classroom",
+                "roomNumber": "6",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 6 on ground floor.",
+                "highlighted": false},
+
+                {"name": "17 CLASSROOM",
+                "roomNumber": "17",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 17 on ground floor.",
+                "highlighted": false}
+            ],        
+            "kichen":[
+                {"name": "18A kichen",
+                "roomNumber": "18A",
+                "category": "kichen",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A kichen with room number 18A on ground floor.",
+                "highlighted": false} 
+            ],
+            "servery":[
+                {"name": "18 servery",
+                "roomNumber": "18",
+                "category": "servery",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A servery with room number 18 on ground floor.",
+                "highlighted": false}
+            ],
+            "electrical room":[
+                {"name": "1A electrical room",
+                "roomNumber": "1A",
+                "category": "electrical",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A kichen with room number 1A on ground floor.",
+                "highlighted": false}, 
+
+                {"name": "1 electrical room",
+                "roomNumber": "1",
+                "category": "electrical room",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A kichen with room number 1 on ground floor.",
+                "highlighted": false}
+                    
+            ],         
+            "grad clab":[
+                {"name": "19 grad clab",
+                "roomNumber": "19",
+                "category": "grad clab",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A grad clab with room number 19 on ground floor",
+                "highlighted": false}
+                    
+            ],
+            "man washroom":[
+                {"name": "5b man washroom",
+                "roomNumber": "5b",
+                "category": "man washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A man washroom with room number 5b on ground floor",
+                "highlighted": false} 
+                  
+            ],
+            "woman washroom":[
+                {"name": "4b woman washroom",
+                "roomNumber": "4b",
+                "category": "woman washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A woman washroom with room number 4b on ground floor",
+                "highlighted": false}
+                    
+            ],
+            "entry/exit":[
+                {"name": "EX. 4",
+                "roomNumber": "4",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on ground floor.",
+                "highlighted": false},
+
+                {"name": "EX. 5",
+                "roomNumber": "5",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on ground floor.",
+                "highlighted": false},
+
+                {"name": "EX. 6",
+                "roomNumber": "6",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on ground floor.",
+                "highlighted": false}, 
+
+                {"name": "EX. 7",
+                "roomNumber": "7",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on ground floor.",
+                "highlighted": false}, 
+
+                {"name": "EX. 8",
+                "roomNumber": "8",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on ground floor.",
+                "highlighted": false}  
+                    
+            ],
+            "stairwell":[
+                {"name": "ST. 1",
+                "roomNumber": "1",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false},
+                    
+                {"name": "ST. 2",
+                "roomNumber": "2",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false},   
+                
+                {"name": "ST. 3",
+                "roomNumber": "3",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false},  
+                    
+                {"name": "ST. 5",
+                "roomNumber": "5",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false},
+                    
+                {"name": "ST. 6",
+                "roomNumber": "6",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false}
+            ],
+            
+            "elevator":[
+                {"name": "ELEV. A",
+                "roomNumber": "A",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on ground floor.",
+                "highlighted": false},     
+                    
+                {"name": "ELEV. C",
+                "roomNumber": "C",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on ground floor.",
+                "highlighted": false}
+            ]          
+        }],
+        "First Floor":[{
+            "classroom":[
+                {"name": "105 CLASSROOM",
+                "roomNumber": "105",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 105 on first floor.",
+                "highlighted": false},
+
+                {"name": "105b CLASSROOM",
+                "roomNumber": "105",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 105b on first floor.",
+                "highlighted": false},
+
+                {"name": "110 CLASSROOM",
+                "roomNumber": "110",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 110 on first floor.",
+                "highlighted": false}
+                    
+            ],      
+            "mech.room":[
+                {"name": "1100.1 MECH. ROOM",
+                "roomNumber": "1100.1",
+                "category": "mech.room",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A mech. room with room number 1100.1 on first floor.",
+                "highlighted": false}
+       
+            ],
+            "man washroom":[
+                {"name": "100 man washroom",
+                "roomNumber": "100",
+                "category": "man washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A man washroom with room number 100 on first floor",
+                "highlighted": false}
+            ],
+            "woman washroom":[
+                {"name": "139 woman washroom",
+                "roomNumber": "139",
+                "category": "woman washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A woman washroom with room number 139 on first floor",
+                "highlighted": false}
+            ],
+            "entry/exit":[
+                {"name": "EX. 1",
+                "roomNumber": "1",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on first floor.",
+                "highlighted": false},
+
+                {"name": "EX. 2",
+                "roomNumber": "2",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on first floor.",
+                "highlighted": false},
+
+                {"name": "EX. 3",
+                "roomNumber": "3",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on fisrt floor.",
+                "highlighted": false}, 
+
+                {"name": "EX. 10",
+                "roomNumber": "10",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on fisrt floor.",
+                "highlighted": false}, 
+
+                {"name": "EX. 11",
+                "roomNumber": "11",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on first floor.",
+                "highlighted": false},  
+                    
+                {"name": "EX. 12",
+                "roomNumber": "12",
+                "category": "entry/exit",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A entry/exit with no room number on first floor.",
+                "highlighted": false}  
+                    
+            ],
+            "stairwell":[
+                {"name": "ST. 1",
+                "roomNumber": "1",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on first floor.",
+                "highlighted": false},
+                    
+                {"name": "ST. 2",
+                "roomNumber": "2",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on ground floor.",
+                "highlighted": false},   
+                
+                {"name": "ST. 3",
+                "roomNumber": "3",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on first floor.",
+                "highlighted": false},  
+                    
+                {"name": "ST. 5",
+                "roomNumber": "5",
+                "category": "stairwell",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A stairwell with no room number on first floor.",
+                "highlighted": false}                  
+                
+            ],
+            
+            "elevator":[
+                {"name": "ELEV. A",
+                "roomNumber": "A",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on first floor.",
+                "highlighted": false},     
+                    
+                {"name": "ELEV. C",
+                "roomNumber": "C",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on first floor.",
+                "highlighted": false}
+            ]
+        }],
+        "Second Floor":[{
+            "classroom":[
+                {"name": "204 CLASSROOM",
+                "roomNumber": "204",
+                "category": "classroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A classroom with room number 204 on second floor.",
+                "highlighted": false}   
+            ],      
+            "man washroom":[
+                {"name": "278 man washroom",
+                "roomNumber": "278",
+                "category": "man washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A man washroom with room number 278 on second floor",
+                "highlighted": false}
+            ],
+            "woman washroom":[
+                {"name": "205 woman washroom",
+                "roomNumber": "205",
+                "category": "woman washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A woman washroom with room number 205 on second floor",
+                "highlighted": false}
+            ],
+            "elevator":[
+                {"name": "ELEV. A",
+                "roomNumber": "NA",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on second floor.",
+                "highlighted": false},     
+                    
+                {"name": "ELEV. C",
+                "roomNumber": "NA",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on second floor.",
+                "highlighted": false}
+            ]
+        }],
+        "Third Floor":[{      
+            "woman washroom":[
+                {"name": "311 woman washroom",
+                "roomNumber": "311",
+                "category": "woman washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A woman washroom with room number 311 on third floor",
+                "highlighted": false},
+                    
+                {"name": "388 woman washroom",
+                "roomNumber": "388",
+                "category": "woman washroom",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "A woman washroom with room number 388 on third floor",
+                "highlighted": false}
+            ],
+            "elevator":[
+                {"name": "ELEV. A",
+                "roomNumber": "NA",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on third floor.",
+                "highlighted": false},     
+                    
+                {"name": "ELEV. C",
+                "roomNumber": "NA",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on third floor.",
+                "highlighted": false}
+            ]
+        }],
+        "Fourth Floor":[{      
+            "elevator":[   
+                {"name": "ELEV. C",
+                "roomNumber": "NA",
+                "category": "elevator",
+                "x-coordinate": 0,
+                "y-coordinate": 0,
+                "description": "An elevator with no room number on fourth floor.",
+                "highlighted": false}
+            ]
+        }]
+    }
+            
+            
+            
+            
+    
